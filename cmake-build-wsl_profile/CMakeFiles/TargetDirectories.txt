@@ -1,0 +1,3 @@
+/mnt/c/data/CollegeSheridan/PROG20799/assignment/assign1ForStudents/cmake-build-wsl_profile/CMakeFiles/assign1Soln.dir
+/mnt/c/data/CollegeSheridan/PROG20799/assignment/assign1ForStudents/cmake-build-wsl_profile/CMakeFiles/edit_cache.dir
+/mnt/c/data/CollegeSheridan/PROG20799/assignment/assign1ForStudents/cmake-build-wsl_profile/CMakeFiles/rebuild_cache.dir

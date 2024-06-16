@@ -1,0 +1,3 @@
+/Users/giangma/Documents/Sheridan College/Semester 4/PROG20799 - C/Assignment/A1/ManhPhuGiangAssign1/cmake-build-debug/CMakeFiles/assign1Soln.dir
+/Users/giangma/Documents/Sheridan College/Semester 4/PROG20799 - C/Assignment/A1/ManhPhuGiangAssign1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/giangma/Documents/Sheridan College/Semester 4/PROG20799 - C/Assignment/A1/ManhPhuGiangAssign1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

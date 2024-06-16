@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/assign1Soln.dir/sudokutesterClientApp.c.o CMakeFiles/assign1Soln.dir/sudokuTester.c.o -o assign1Soln 
